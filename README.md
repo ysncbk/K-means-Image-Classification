@@ -1,4 +1,4 @@
-# K-means-Scratch-Python
+# K-means
 K-Meas Clustering Scratch Coding by Python
 
 
